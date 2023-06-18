@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #excuse {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  #botonExcusa {
+    padding: 10px 20px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  #botonExcusa:hover {
+    background-color: #45a049;
+  }
